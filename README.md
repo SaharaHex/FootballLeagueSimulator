@@ -1,3 +1,5 @@
+# Football (Soccer) League Simulator - Excel
+
 This is a Football (Soccer) League Simulator that runs simulations based on your team ratings.
 You can score teams by rating their Attack, Defence, and Consistency (e.g., their performance reliability). Editable cells are highlighted in yellow.
 
