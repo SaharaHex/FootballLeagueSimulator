@@ -8,7 +8,7 @@ Parts of the spreadsheet are protected to prevent accidental deletion of formula
 This simulator was created for fun and to explore Excel's capabilities.
 Please note, this spreadsheet uses macros.
 
-Version 1.0 (Feb-2025)
+Version 1.1 (Feb-2025)
 
 If running the maximum of 1000 simulations, the calculation time may vary based on your computer's performance.
 This has been tested on: Microsoft Excel 2021 MSO (Version 2501 Build 16.0.18429.20132) 64-bit.
